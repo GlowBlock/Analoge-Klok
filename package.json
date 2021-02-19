@@ -1,0 +1,14 @@
+{
+    "name": "Analoge Klok",
+    "author": "Alex Gillard",
+    "desc": "A hello world",
+    "repository": "https://github.com/GlowBlock/Analoge-Klok.git",
+    "platforms": ["pi/epoch-1", "pi/epoch-2"],
+    "nesting": {
+      "parents": ["top-level"]
+    },
+    "offline": {
+      "support": "no",
+      "info": "Een analoge klok"
+    }
+}
